@@ -15,16 +15,16 @@
 #
  
 #Location of JAVA_HOME (bin files)
-export JAVA_HOME=\Program Files\Java\jdk1.8.0_281\jre
+export JAVA_HOME=/Program Files/Java/jdk1.8.0_281/jre
  
 #Add Java binary files to PATH
 export PATH=$JAVA_HOME/bin:$PATH
  
 #CATALINA_HOME is the location of the bin files of Tomcat  
-export CATALINA_HOME=C:\Program Files\Apache Software Foundation\Tomcat 10.0 
+export CATALINA_HOME=C:/Program Files/Apache Software Foundation/Tomcat 10.0 
  
 #CATALINA_BASE is the location of the configuration files of this instance of Tomcat
-export CATALINA_BASE=C:\Program Files\Apache Software Foundation\Tomcat 10.0
+export CATALINA_BASE=C:C:/Program Files/Apache Software Foundation/Tomcat 10.0 
  
 #TOMCAT_USER is the default user of tomcat
 export TOMCAT_USER=tomcat
