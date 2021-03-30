@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@swarnvani306 
-devops4solutions
-/
-CI-usingAnsible
-1
-122
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-CI-usingAnsible/roles/tomcat/files/tomcat-initscript.sh
-@devops4solutions
-devops4solutions update code
-Latest commit 6952212 on Aug 11, 2020
- History
- 1 contributor
-131 lines (109 sloc)  2.98 KB
-  
 #!/bin/bash
 #
 # chkconfig: 345 99 28
@@ -159,15 +129,3 @@ case $1 in
         ;;
 esac    
 exit 0
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
